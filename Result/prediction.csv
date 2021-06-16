@@ -1,0 +1,453 @@
+Company,Ticker,Prediction
+Apple Inc.,AAPL,1.0
+Microsoft Corporation,MSFT,1.0
+Amazon.com Inc.,AMZN,1.0
+Tesla Inc,TSLA,1.0
+Facebook Inc. Class A,FB,1.0
+Alphabet Inc. Class A,GOOGL,1.0
+Berkshire Hathaway Inc. Class B,BRK.B,0.0
+Johnson & Johnson,JNJ,0.0
+Visa Inc. Class A,V,1.0
+NVIDIA Corporation,NVDA,0.0
+Procter & Gamble Company,PG,0.0
+UnitedHealth Group Incorporated,UNH,1.0
+Walt Disney Company,DIS,0.0
+Home Depot Inc.,HD,1.0
+PayPal Holdings Inc,PYPL,1.0
+Mastercard Incorporated Class A,MA,1.0
+Netflix Inc.,NFLX,0.0
+Intel Corporation,INTC,1.0
+Comcast Corporation Class A,CMCSA,0.0
+Adobe Inc.,ADBE,1.0
+Verizon Communications Inc.,VZ,0.0
+Abbott Laboratories,ABT,1.0
+salesforce.com inc.,CRM,1.0
+Thermo Fisher Scientific Inc.,TMO,1.0
+AT&T Inc.,T,0.0
+Pfizer Inc.,PFE,0.0
+Merck & Co. Inc.,MRK,0.0
+Walmart Inc.,WMT,1.0
+Cisco Systems Inc.,CSCO,0.0
+Exxon Mobil Corporation,XOM,0.0
+PepsiCo Inc.,PEP,0.0
+Broadcom Inc.,AVGO,0.0
+Coca-Cola Company,KO,0.0
+Qualcomm Inc,QCOM,0.0
+AbbVie Inc.,ABBV,0.0
+NIKE Inc. Class B,NKE,1.0
+Chevron Corporation,CVX,0.0
+Eli Lilly and Company,LLY,0.0
+NextEra Energy Inc.,NEE,0.0
+Texas Instruments Incorporated,TXN,0.0
+Accenture Plc Class A,ACN,1.0
+McDonald's Corporation,MCD,0.0
+Costco Wholesale Corporation,COST,1.0
+Danaher Corporation,DHR,0.0
+Medtronic Plc,MDT,0.0
+Bristol-Myers Squibb Company,BMY,0.0
+Amgen Inc.,AMGN,0.0
+Honeywell International Inc.,HON,0.0
+Union Pacific Corporation,UNP,1.0
+Linde plc,LIN,1.0
+Philip Morris International Inc.,PM,0.0
+Lowe's Companies Inc.,LOW,1.0
+Oracle Corporation,ORCL,0.0
+Starbucks Corporation,SBUX,0.0
+United Parcel Service Inc. Class B,UPS,0.0
+ServiceNow Inc.,NOW,1.0
+International Business Machines Corporation,IBM,0.0
+Advanced Micro Devices Inc.,AMD,1.0
+American Tower Corporation,AMT,1.0
+Boeing Company,BA,0.0
+Raytheon Technologies Corporation,RTX,0.0
+BlackRock Inc.,BLK,0.0
+3M Company,MMM,0.0
+Caterpillar Inc.,CAT,0.0
+Intuit Inc.,INTU,1.0
+Goldman Sachs Group Inc.,GS,0.0
+General Electric Company,GE,1.0
+CVS Health Corporation,CVS,0.0
+Applied Materials Inc.,AMAT,1.0
+Target Corporation,TGT,0.0
+Deere & Company,DE,1.0
+Micron Technology Inc.,MU,0.0
+Intuitive Surgical Inc.,ISRG,1.0
+Charter Communications Inc. Class A,CHTR,0.0
+Gilead Sciences Inc.,GILD,0.0
+Booking Holdings Inc.,BKNG,0.0
+Fidelity National Information Services Inc.,FIS,1.0
+Lockheed Martin Corporation,LMT,0.0
+Charles Schwab Corporation,SCHW,0.0
+Mondelez International Inc. Class A,MDLZ,1.0
+Cigna Corporation,CI,1.0
+Prologis Inc.,PLD,1.0
+S&P Global Inc.,SPGI,1.0
+TJX Companies Inc,TJX,0.0
+Becton Dickinson and Company,BDX,0.0
+Altria Group Inc,MO,0.0
+T-Mobile US Inc.,TMUS,1.0
+Stryker Corporation,SYK,0.0
+Zoetis Inc. Class A,ZTS,0.0
+Anthem Inc.,ANTM,1.0
+Lam Research Corporation,LRCX,1.0
+Automatic Data Processing Inc.,ADP,1.0
+Crown Castle International Corp,CCI,1.0
+Duke Energy Corporation,DUK,0.0
+Equinix Inc.,EQIX,1.0
+Colgate-Palmolive Company,CL,0.0
+CME Group Inc. Class A,CME,1.0
+Chubb Limited,CB,0.0
+CSX Corporation,CSX,1.0
+General Motors Company,GM,0.0
+Illumina Inc.,ILMN,1.0
+Intercontinental Exchange Inc.,ICE,1.0
+Autodesk Inc.,ADSK,1.0
+Southern Company,SO,0.0
+Fiserv Inc.,FISV,1.0
+Norfolk Southern Corporation,NSC,1.0
+Vertex Pharmaceuticals Incorporated,VRTX,0.0
+Air Products and Chemicals Inc.,APD,0.0
+Dominion Energy Inc,D,0.0
+FedEx Corporation,FDX,0.0
+Sherwin-Williams Company,SHW,0.0
+Illinois Tool Works Inc.,ITW,1.0
+Analog Devices Inc.,ADI,1.0
+Marsh & McLennan Companies Inc.,MMC,1.0
+ConocoPhillips,COP,0.0
+Estee Lauder Companies Inc. Class A,EL,1.0
+Global Payments Inc.,GPN,1.0
+DuPont de Nemours Inc.,DD,0.0
+Regeneron Pharmaceuticals Inc.,REGN,0.0
+Ecolab Inc.,ECL,0.0
+Boston Scientific Corporation,BSX,1.0
+Edwards Lifesciences Corporation,EW,0.0
+Progressive Corporation,PGR,0.0
+Humana Inc.,HUM,1.0
+Eaton Corp. Plc,ETN,0.0
+Emerson Electric Co.,EMR,0.0
+Newmont Corporation,NEM,0.0
+Aon Plc Class A,AON,1.0
+Dollar General Corporation,DG,1.0
+Northrop Grumman Corporation,NOC,0.0
+Kimberly-Clark Corporation,KMB,0.0
+KLA Corporation,KLAC,1.0
+HCA Healthcare Inc,HCA,0.0
+Moody's Corporation,MCO,1.0
+Waste Management Inc.,WM,0.0
+Biogen Inc.,BIIB,0.0
+Ford Motor Company,F,0.0
+Electronic Arts Inc.,EA,1.0
+Chipotle Mexican Grill Inc.,CMG,0.0
+Cognizant Technology Solutions Corporation Class A,CTSH,1.0
+IDEXX Laboratories Inc.,IDXX,1.0
+Twitter Inc.,TWTR,1.0
+Digital Realty Trust Inc.,DLR,1.0
+TE Connectivity Ltd.,TEL,0.0
+Exelon Corporation,EXC,0.0
+Roper Technologies Inc.,ROP,1.0
+Freeport-McMoRan Inc.,FCX,0.0
+American Electric Power Company Inc.,AEP,0.0
+Synopsys Inc.,SNPS,1.0
+Ross Stores Inc.,ROST,0.0
+Baxter International Inc.,BAX,1.0
+Align Technology Inc.,ALGN,1.0
+eBay Inc.,EBAY,1.0
+Amphenol Corporation Class A,APH,0.0
+Cadence Design Systems Inc.,CDNS,1.0
+Aptiv PLC,APTV,0.0
+MetLife Inc.,MET,0.0
+Microchip Technology Incorporated,MCHP,1.0
+Agilent Technologies Inc.,A,0.0
+Johnson Controls International plc,JCI,0.0
+DexCom Inc.,DXCM,1.0
+Constellation Brands Inc. Class A,STZ,0.0
+L3Harris Technologies Inc,LHX,1.0
+Sysco Corporation,SYY,0.0
+Sempra Energy,SRE,0.0
+Public Storage,PSA,0.0
+T. Rowe Price Group,TROW,0.0
+General Mills Inc.,GIS,0.0
+Walgreens Boots Alliance Inc,WBA,0.0
+Travelers Companies Inc.,TRV,0.0
+IQVIA Holdings Inc,IQV,1.0
+Parker-Hannifin Corporation,PH,0.0
+Centene Corporation,CNC,1.0
+MSCI Inc. Class A,MSCI,1.0
+Cummins Inc.,CMI,0.0
+General Dynamics Corporation,GD,1.0
+Alexion Pharmaceuticals Inc.,ALXN,1.0
+HP Inc.,HPQ,0.0
+Xcel Energy Inc.,XEL,1.0
+Xilinx Inc.,XLNX,1.0
+Allstate Corporation,ALL,0.0
+PPG Industries Inc.,PPG,0.0
+Monster Beverage Corporation,MNST,0.0
+American International Group Inc.,AIG,0.0
+Zimmer Biomet Holdings Inc.,ZBH,0.0
+O'Reilly Automotive Inc.,ORLY,1.0
+ANSYS Inc.,ANSS,1.0
+PACCAR Inc,PCAR,0.0
+Marriott International Inc. Class A,MAR,0.0
+Prudential Financial Inc.,PRU,0.0
+Yum! Brands Inc.,YUM,0.0
+TransDigm Group Incorporated,TDG,1.0
+SBA Communications Corp. Class A,SBAC,1.0
+Skyworks Solutions Inc.,SWKS,1.0
+Schlumberger NV,SLB,0.0
+Simon Property Group Inc.,SPG,0.0
+Verisk Analytics Inc,VRSK,0.0
+Eversource Energy,ES,0.0
+EOG Resources Inc.,EOG,0.0
+Aflac Incorporated,AFL,0.0
+Motorola Solutions Inc.,MSI,1.0
+ViacomCBS Inc. Class B,VIAC,1.0
+Phillips 66,PSX,0.0
+ResMed Inc.,RMD,0.0
+American Water Works Company Inc.,AWK,1.0
+Ball Corporation,BLL,1.0
+Public Service Enterprise Group Inc,PEG,0.0
+Rockwell Automation Inc.,ROK,1.0
+Cintas Corporation,CTAS,1.0
+Paychex Inc.,PAYX,0.0
+Marathon Petroleum Corporation,MPC,0.0
+Mettler-Toledo International Inc.,MTD,1.0
+WEC Energy Group Inc,WEC,0.0
+Stanley Black & Decker Inc.,SWK,0.0
+Corning Inc,GLW,0.0
+Kinder Morgan Inc Class P,KMI,0.0
+AutoZone Inc.,AZO,0.0
+Willis Towers Watson Public Limited Company,WLTW,1.0
+Fastenal Company,FAST,1.0
+Clorox Company,CLX,0.0
+Southwest Airlines Co.,LUV,0.0
+AMETEK Inc.,AME,1.0
+Welltower Inc.,WELL,0.0
+Williams Companies Inc.,WMB,0.0
+D.R. Horton Inc.,DHI,0.0
+Etsy Inc.,ETSY,0.0
+Best Buy Co. Inc.,BBY,0.0
+Cerner Corporation,CERN,0.0
+Pioneer Natural Resources Company,PXD,0.0
+Maxim Integrated Products Inc.,MXIM,1.0
+Consolidated Edison Inc.,ED,1.0
+Delta Air Lines Inc.,DAL,0.0
+Weyerhaeuser Company,WY,0.0
+Dollar Tree Inc.,DLTR,1.0
+Ameriprise Financial Inc.,AMP,0.0
+Enphase Energy Inc.,ENPH,0.0
+Lennar Corporation Class A,LEN,1.0
+DTE Energy Company,DTE,0.0
+Take-Two Interactive Software Inc.,TTWO,1.0
+AvalonBay Communities Inc.,AVB,0.0
+Copart Inc.,CPRT,1.0
+Valero Energy Corporation,VLO,0.0
+Laboratory Corporation of America Holdings,LH,0.0
+Fortive Corp.,FTV,0.0
+LyondellBasell Industries NV,LYB,0.0
+McCormick & Company Incorporated,MKC,0.0
+Arthur J. Gallagher & Co.,AJG,0.0
+West Pharmaceutical Services Inc.,WST,1.0
+Edison International,EIX,0.0
+Equifax Inc.,EFX,0.0
+MarketAxess Holdings Inc.,MKTX,1.0
+Kraft Heinz Company,KHC,0.0
+PPL Corporation,PPL,0.0
+Hershey Company,HSY,0.0
+CBRE Group Inc. Class A,CBRE,0.0
+Equity Residential,EQR,0.0
+Hologic Inc.,HOLX,0.0
+Zebra Technologies Corporation Class A,ZBRA,1.0
+Realty Income Corporation,O,0.0
+Qorvo Inc.,QRVO,1.0
+Church & Dwight Co. Inc.,CHD,0.0
+FLEETCOR Technologies Inc.,FLT,0.0
+Alexandria Real Estate Equities Inc.,ARE,0.0
+Vulcan Materials Company,VMC,0.0
+Fortinet Inc.,FTNT,1.0
+VeriSign Inc.,VRSN,0.0
+CDW Corp.,CDW,0.0
+International Paper Company,IP,0.0
+Teradyne Inc.,TER,1.0
+Paycom Software Inc.,PAYC,1.0
+Catalent Inc,CTLT,0.0
+Kansas City Southern,KSU,0.0
+CarMax Inc.,KMX,0.0
+Old Dominion Freight Line Inc.,ODFL,0.0
+Republic Services Inc.,RSG,1.0
+Entergy Corporation,ETR,0.0
+Tyson Foods Inc. Class A,TSN,0.0
+Martin Marietta Materials Inc.,MLM,0.0
+United Rentals Inc.,URI,0.0
+Akamai Technologies Inc.,AKAM,0.0
+Ameren Corporation,AEE,0.0
+Quest Diagnostics Incorporated,DGX,0.0
+Cooper Companies Inc.,COO,1.0
+Ventas Inc.,VTR,0.0
+ONEOK Inc.,OKE,0.0
+Albemarle Corporation,ALB,1.0
+Teleflex Incorporated,TFX,1.0
+Xylem Inc.,XYL,0.0
+Western Digital Corporation,WDC,0.0
+Garmin Ltd.,GRMN,1.0
+Hartford Financial Services Group Inc.,HIG,1.0
+Expedia Group Inc.,EXPE,0.0
+Arista Networks Inc.,ANET,0.0
+Tyler Technologies Inc.,TYL,1.0
+Occidental Petroleum Corporation,OXY,0.0
+PerkinElmer Inc.,PKI,0.0
+Dover Corporation,DOV,0.0
+Incyte Corporation,INCY,0.0
+FirstEnergy Corp.,FE,0.0
+Broadridge Financial Solutions Inc.,BR,0.0
+Conagra Brands Inc.,CAG,0.0
+W.W. Grainger Inc.,GWW,0.0
+Waters Corporation,WAT,1.0
+AES Corporation,AES,0.0
+CMS Energy Corporation,CMS,0.0
+Healthpeak Properties Inc.,PEAK,0.0
+Citrix Systems Inc.,CTXS,1.0
+Tractor Supply Company,TSCO,0.0
+Las Vegas Sands Corp.,LVS,0.0
+Cardinal Health Inc.,CAH,0.0
+Hewlett Packard Enterprise Co.,HPE,0.0
+Nasdaq Inc.,NDAQ,1.0
+STERIS Plc,STE,1.0
+Ulta Beauty Inc,ULTA,0.0
+NVR Inc.,NVR,1.0
+Ingersoll Rand Inc.,IR,0.0
+Essex Property Trust Inc.,ESS,0.0
+Halliburton Company,HAL,0.0
+AmerisourceBergen Corporation,ABC,0.0
+Darden Restaurants Inc.,DRI,0.0
+ABIOMED Inc.,ABMD,0.0
+Mid-America Apartment Communities Inc.,MAA,0.0
+Expeditors International of Washington Inc.,EXPD,0.0
+Duke Realty Corporation,DRE,0.0
+Extra Space Storage Inc.,EXR,0.0
+Kellogg Company,K,0.0
+Seagate Technology PLC,STX,0.0
+Hess Corporation,HES,0.0
+Nucor Corporation,NUE,0.0
+NetApp Inc.,NTAP,0.0
+Domino's Pizza Inc.,DPZ,1.0
+Pool Corporation,POOL,1.0
+Masco Corporation,MAS,0.0
+Celanese Corporation,CE,1.0
+IDEX Corporation,IEX,0.0
+FMC Corporation,FMC,0.0
+Leidos Holdings Inc.,LDOS,0.0
+Carnival Corporation,CCL,0.0
+Teledyne Technologies Incorporated,TDY,1.0
+Gartner Inc.,IT,0.0
+Genuine Parts Company,GPC,0.0
+Westinghouse Air Brake Technologies Corporation,WAB,0.0
+Eastman Chemical Company,EMN,0.0
+Omnicom Group Inc,OMC,0.0
+Jacobs Engineering Group Inc.,J,1.0
+Hormel Foods Corporation,HRL,0.0
+Brown-Forman Corporation Class B,BF.B,0.0
+J.M. Smucker Company,SJM,0.0
+Cincinnati Financial Corporation,CINF,0.0
+Principal Financial Group Inc.,PFG,0.0
+Boston Properties Inc.,BXP,0.0
+Avery Dennison Corporation,AVY,1.0
+Packaging Corporation of America,PKG,0.0
+Bio-Rad Laboratories Inc. Class A,BIO,1.0
+NortonLifeLock Inc.,NLOK,1.0
+Raymond James Financial Inc.,RJF,0.0
+Fortune Brands Home & Security Inc.,FBHS,0.0
+Alliant Energy Corp,LNT,1.0
+Evergy Inc.,EVRG,0.0
+Royal Caribbean Group,RCL,0.0
+F5 Networks Inc.,FFIV,0.0
+Hasbro Inc.,HAS,0.0
+PulteGroup Inc.,PHM,0.0
+MGM Resorts International,MGM,0.0
+DENTSPLY SIRONA Inc.,XRAY,0.0
+C.H. Robinson Worldwide Inc.,CHRW,0.0
+United Airlines Holdings Inc.,UAL,0.0
+Whirlpool Corporation,WHR,0.0
+Lumen Technologies Inc.,LUMN,0.0
+CenterPoint Energy Inc.,CNP,0.0
+J.B. Hunt Transport Services Inc.,JBHT,0.0
+UDR Inc.,UDR,0.0
+Jack Henry & Associates Inc.,JKHY,0.0
+Atmos Energy Corporation,ATO,0.0
+Lamb Weston Holdings Inc.,LW,0.0
+WestRock Company,WRK,1.0
+Loews Corporation,L,0.0
+Textron Inc.,TXT,0.0
+NRG Energy Inc.,NRG,0.0
+BorgWarner Inc.,BWA,0.0
+American Airlines Group Inc.,AAL,0.0
+Cboe Global Markets Inc,CBOE,1.0
+Advance Auto Parts Inc.,AAP,0.0
+Allegion PLC,ALLE,0.0
+Quanta Services Inc.,PWR,1.0
+LKQ Corporation,LKQ,0.0
+Snap-on Incorporated,SNA,0.0
+Universal Health Services Inc. Class B,UHS,0.0
+Devon Energy Corporation,DVN,0.0
+Wynn Resorts Limited,WYNN,0.0
+L Brands Inc.,LB,1.0
+Howmet Aerospace Inc.,HWM,0.0
+Campbell Soup Company,CPB,0.0
+Interpublic Group of Companies Inc.,IPG,0.0
+Live Nation Entertainment Inc.,LYV,1.0
+Iron Mountain Inc.,IRM,0.0
+Henry Schein Inc.,HSIC,0.0
+Host Hotels & Resorts Inc.,HST,0.0
+Molson Coors Beverage Company Class B,TAP,0.0
+Western Union Company,WU,1.0
+Mosaic Company,MOS,0.0
+Newell Brands Inc,NWL,1.0
+CF Industries Holdings Inc.,CF,0.0
+Diamondback Energy Inc.,FANG,0.0
+Pentair plc,PNR,0.0
+W. R. Berkley Corporation,WRB,1.0
+Tapestry Inc.,TPR,1.0
+Globe Life Inc.,GL,0.0
+DaVita Inc.,DVA,0.0
+Mohawk Industries Inc.,MHK,0.0
+Pinnacle West Capital Corporation,PNW,0.0
+NiSource Inc,NI,0.0
+Everest Re Group Ltd.,RE,0.0
+Lincoln National Corporation,LNC,0.0
+IPG Photonics Corporation,IPGP,0.0
+Juniper Networks Inc.,JNPR,0.0
+Nielsen Holdings Plc,NLSN,0.0
+Invesco Ltd.,IVZ,0.0
+Rollins Inc.,ROL,1.0
+Assurant Inc.,AIZ,0.0
+Robert Half International Inc.,RHI,0.0
+A. O. Smith Corporation,AOS,0.0
+News Corporation Class A,NWSA,0.0
+Cabot Oil & Gas Corporation,COG,0.0
+Regency Centers Corporation,REG,0.0
+DISH Network Corporation Class A,DISH,1.0
+Franklin Resources Inc.,BEN,0.0
+Kimco Realty Corporation,KIM,0.0
+Norwegian Cruise Line Holdings Ltd.,NCLH,1.0
+Discovery Inc. Class A,DISCA,0.0
+Sealed Air Corporation,SEE,1.0
+DXC Technology Co.,DXC,0.0
+Huntington Ingalls Industries Inc.,HII,0.0
+Alaska Air Group Inc.,ALK,1.0
+Vornado Realty Trust,VNO,0.0
+Federal Realty Investment Trust,FRT,0.0
+Perrigo Co. Plc,PRGO,1.0
+PVH Corp.,PVH,0.0
+Marathon Oil Corporation,MRO,0.0
+Apache Corporation,APA,0.0
+Leggett & Platt Incorporated,LEG,0.0
+Hanesbrands Inc.,HBI,0.0
+Ralph Lauren Corporation Class A,RL,0.0
+NOV Inc.,NOV,0.0
+Unum Group,UNM,0.0
+SL Green Realty Corp.,SLG,0.0
+Flowserve Corporation,FLS,0.0
+TechnipFMC Plc,FTI,0.0
+HollyFrontier Corporation,HFC,0.0
+Gap Inc.,GPS,1.0
+Xerox Holdings Corporation,XRX,0.0
+Under Armour Inc. Class A,UAA,0.0

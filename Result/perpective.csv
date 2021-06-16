@@ -1,0 +1,147 @@
+Company,Ticker,Prediction
+Apple Inc.,AAPL,1.0
+Microsoft Corporation,MSFT,1.0
+Amazon.com Inc.,AMZN,1.0
+Tesla Inc,TSLA,1.0
+Facebook Inc. Class A,FB,1.0
+Alphabet Inc. Class A,GOOGL,1.0
+Visa Inc. Class A,V,1.0
+UnitedHealth Group Incorporated,UNH,1.0
+Home Depot Inc.,HD,1.0
+PayPal Holdings Inc,PYPL,1.0
+Mastercard Incorporated Class A,MA,1.0
+Intel Corporation,INTC,1.0
+Adobe Inc.,ADBE,1.0
+Abbott Laboratories,ABT,1.0
+salesforce.com inc.,CRM,1.0
+Thermo Fisher Scientific Inc.,TMO,1.0
+Walmart Inc.,WMT,1.0
+NIKE Inc. Class B,NKE,1.0
+Accenture Plc Class A,ACN,1.0
+Costco Wholesale Corporation,COST,1.0
+Union Pacific Corporation,UNP,1.0
+Linde plc,LIN,1.0
+Lowe's Companies Inc.,LOW,1.0
+ServiceNow Inc.,NOW,1.0
+Advanced Micro Devices Inc.,AMD,1.0
+American Tower Corporation,AMT,1.0
+Intuit Inc.,INTU,1.0
+General Electric Company,GE,1.0
+Applied Materials Inc.,AMAT,1.0
+Deere & Company,DE,1.0
+Intuitive Surgical Inc.,ISRG,1.0
+Fidelity National Information Services Inc.,FIS,1.0
+Mondelez International Inc. Class A,MDLZ,1.0
+Cigna Corporation,CI,1.0
+Prologis Inc.,PLD,1.0
+S&P Global Inc.,SPGI,1.0
+T-Mobile US Inc.,TMUS,1.0
+Anthem Inc.,ANTM,1.0
+Lam Research Corporation,LRCX,1.0
+Automatic Data Processing Inc.,ADP,1.0
+Crown Castle International Corp,CCI,1.0
+Equinix Inc.,EQIX,1.0
+CME Group Inc. Class A,CME,1.0
+CSX Corporation,CSX,1.0
+Illumina Inc.,ILMN,1.0
+Intercontinental Exchange Inc.,ICE,1.0
+Autodesk Inc.,ADSK,1.0
+Fiserv Inc.,FISV,1.0
+Norfolk Southern Corporation,NSC,1.0
+Illinois Tool Works Inc.,ITW,1.0
+Analog Devices Inc.,ADI,1.0
+Marsh & McLennan Companies Inc.,MMC,1.0
+Estee Lauder Companies Inc. Class A,EL,1.0
+Global Payments Inc.,GPN,1.0
+Boston Scientific Corporation,BSX,1.0
+Humana Inc.,HUM,1.0
+Aon Plc Class A,AON,1.0
+Dollar General Corporation,DG,1.0
+KLA Corporation,KLAC,1.0
+Moody's Corporation,MCO,1.0
+Electronic Arts Inc.,EA,1.0
+Cognizant Technology Solutions Corporation Class A,CTSH,1.0
+IDEXX Laboratories Inc.,IDXX,1.0
+Twitter Inc.,TWTR,1.0
+Digital Realty Trust Inc.,DLR,1.0
+Roper Technologies Inc.,ROP,1.0
+Synopsys Inc.,SNPS,1.0
+Baxter International Inc.,BAX,1.0
+Align Technology Inc.,ALGN,1.0
+eBay Inc.,EBAY,1.0
+Cadence Design Systems Inc.,CDNS,1.0
+Microchip Technology Incorporated,MCHP,1.0
+DexCom Inc.,DXCM,1.0
+L3Harris Technologies Inc,LHX,1.0
+IQVIA Holdings Inc,IQV,1.0
+Centene Corporation,CNC,1.0
+MSCI Inc. Class A,MSCI,1.0
+General Dynamics Corporation,GD,1.0
+Alexion Pharmaceuticals Inc.,ALXN,1.0
+Xcel Energy Inc.,XEL,1.0
+Xilinx Inc.,XLNX,1.0
+O'Reilly Automotive Inc.,ORLY,1.0
+ANSYS Inc.,ANSS,1.0
+TransDigm Group Incorporated,TDG,1.0
+SBA Communications Corp. Class A,SBAC,1.0
+Skyworks Solutions Inc.,SWKS,1.0
+Motorola Solutions Inc.,MSI,1.0
+ViacomCBS Inc. Class B,VIAC,1.0
+American Water Works Company Inc.,AWK,1.0
+Ball Corporation,BLL,1.0
+Rockwell Automation Inc.,ROK,1.0
+Cintas Corporation,CTAS,1.0
+Mettler-Toledo International Inc.,MTD,1.0
+Willis Towers Watson Public Limited Company,WLTW,1.0
+Fastenal Company,FAST,1.0
+AMETEK Inc.,AME,1.0
+Maxim Integrated Products Inc.,MXIM,1.0
+Consolidated Edison Inc.,ED,1.0
+Dollar Tree Inc.,DLTR,1.0
+Lennar Corporation Class A,LEN,1.0
+Take-Two Interactive Software Inc.,TTWO,1.0
+Copart Inc.,CPRT,1.0
+West Pharmaceutical Services Inc.,WST,1.0
+MarketAxess Holdings Inc.,MKTX,1.0
+Zebra Technologies Corporation Class A,ZBRA,1.0
+Qorvo Inc.,QRVO,1.0
+Fortinet Inc.,FTNT,1.0
+Teradyne Inc.,TER,1.0
+Paycom Software Inc.,PAYC,1.0
+Republic Services Inc.,RSG,1.0
+Cooper Companies Inc.,COO,1.0
+Albemarle Corporation,ALB,1.0
+Teleflex Incorporated,TFX,1.0
+Garmin Ltd.,GRMN,1.0
+Hartford Financial Services Group Inc.,HIG,1.0
+Tyler Technologies Inc.,TYL,1.0
+Waters Corporation,WAT,1.0
+Citrix Systems Inc.,CTXS,1.0
+Nasdaq Inc.,NDAQ,1.0
+STERIS Plc,STE,1.0
+NVR Inc.,NVR,1.0
+Domino's Pizza Inc.,DPZ,1.0
+Pool Corporation,POOL,1.0
+Celanese Corporation,CE,1.0
+Teledyne Technologies Incorporated,TDY,1.0
+Jacobs Engineering Group Inc.,J,1.0
+Avery Dennison Corporation,AVY,1.0
+Bio-Rad Laboratories Inc. Class A,BIO,1.0
+NortonLifeLock Inc.,NLOK,1.0
+Alliant Energy Corp,LNT,1.0
+WestRock Company,WRK,1.0
+Cboe Global Markets Inc,CBOE,1.0
+Quanta Services Inc.,PWR,1.0
+L Brands Inc.,LB,1.0
+Live Nation Entertainment Inc.,LYV,1.0
+Western Union Company,WU,1.0
+Newell Brands Inc,NWL,1.0
+W. R. Berkley Corporation,WRB,1.0
+Tapestry Inc.,TPR,1.0
+Rollins Inc.,ROL,1.0
+DISH Network Corporation Class A,DISH,1.0
+Norwegian Cruise Line Holdings Ltd.,NCLH,1.0
+Sealed Air Corporation,SEE,1.0
+Alaska Air Group Inc.,ALK,1.0
+Perrigo Co. Plc,PRGO,1.0
+Gap Inc.,GPS,1.0
